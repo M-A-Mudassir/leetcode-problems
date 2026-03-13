@@ -18,10 +18,6 @@ class Solution {
                 hm.put(idx,li);
             }
         } 
-        List<List<String>> res = new ArrayList<>();
-        for(List<String> l:hm.values()){
-            res.add(l);
-        }
-        return res;
+        return new ArrayList<>(hm.values());
     }
 }
