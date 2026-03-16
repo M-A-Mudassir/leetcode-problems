@@ -9,7 +9,6 @@ class Solution {
             sum++;
             while(hm.size() > 2){
                 sum--;
-                res = Math.max(res,sum);
                 hm.put(nums[l],hm.get(nums[l])-1);
                 if(hm.get(nums[l])==0){
                     hm.remove(nums[l]);
