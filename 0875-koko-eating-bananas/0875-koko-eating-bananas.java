@@ -1,9 +1,9 @@
 class Solution {
     public boolean valid(int[] piles,int h,int k){
         int n = piles.length;
-        int sum = 0;
+        long sum = 0;
         for(int i=0;i<n;i++){
-            sum += Math.ceil((double)piles[i]/k);
+            sum += (piles[i]+k-1)/k;
             //System.out.println(piles[i]/k +" "+piles[i]+" "+k);
         }
         return sum<=h;
