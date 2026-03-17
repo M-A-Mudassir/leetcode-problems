@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0904-fruit-into-baskets) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Dynamic Programming
 |  |
 | ------- |
