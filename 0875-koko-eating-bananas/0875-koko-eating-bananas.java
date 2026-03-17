@@ -3,7 +3,7 @@ class Solution {
         int n = piles.length;
         int sum = 0;
         for(int i=0;i<n;i++){
-            sum +=(int)Math.ceil((double)piles[i]/k);
+            sum += Math.ceil((double)piles[i]/k);
             //System.out.println(piles[i]/k +" "+piles[i]+" "+k);
         }
         return sum<=h;
