@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1441-build-an-array-with-stack-operations](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Stack
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
