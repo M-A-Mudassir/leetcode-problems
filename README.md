@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0605-can-place-flowers) |
+| [0645-set-mismatch](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0875-koko-eating-bananas](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0523-continuous-subarray-sum](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0645-set-mismatch](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0645-set-mismatch) |
 ## String Matching
 |  |
 | ------- |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
