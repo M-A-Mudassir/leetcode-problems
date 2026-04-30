@@ -11,17 +11,18 @@ class Solution {
                 larr[i] = 1;
             }
         }
-        rarr[n-1] = 1;
+        int past = 1;
+        int sum = 0;
+        int curr = 0;
+        sum += Math.max(past,larr[n-1]);
         for(int i=n-2;i>=0;i--){
             if(ratings[i] > ratings[i+1]){
-                rarr[i] = rarr[i+1]+1;
+                curr = past+1;
             }else{
-                rarr[i] = 1;
+                curr = 1;
             }
-        }
-        int sum =0;
-        for(int i=0;i<n;i++){
-            sum += Math.max(larr[i],rarr[i]);
+            past = curr;
+            sum += Math.max(curr,larr[i]);
         }
         return sum;
     }
