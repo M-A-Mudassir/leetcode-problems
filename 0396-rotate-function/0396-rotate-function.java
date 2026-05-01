@@ -8,7 +8,9 @@ class Solution {
         int res = curr;
         for(int i=1;i<n;i++){
             curr += sum - n*nums[n-i];
-            res = Math.max(curr,res);
+            if(curr > res){
+                res = curr;
+            }
         }
         return res;
     }
