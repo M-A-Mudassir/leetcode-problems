@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0135-candy](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0645-set-mismatch](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String Matching
