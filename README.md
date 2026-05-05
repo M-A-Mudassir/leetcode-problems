@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0056-merge-intervals) |
+| [0084-largest-rectangle-in-histogram](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0152-maximum-product-subarray) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -218,5 +220,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
