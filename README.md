@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0605-can-place-flowers) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0387-first-unique-character-in-a-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0645-set-mismatch) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0496-next-greater-element-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
