@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0345-reverse-vowels-of-a-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Math
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0605-can-place-flowers) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Matrix
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1441-build-an-array-with-stack-operations) |
 ## Memoization
 |  |
