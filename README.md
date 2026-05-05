@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
