@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0396-rotate-function) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0345-reverse-vowels-of-a-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
