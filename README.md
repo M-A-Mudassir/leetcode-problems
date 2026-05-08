@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1861-rotating-the-box) |
 | [1929-concatenation-of-array](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3660-jump-game-ix) |
 ## Dynamic Programming
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0322-coin-change) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0396-rotate-function) |
 | [0523-continuous-subarray-sum](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Sorting
 |  |
 | ------- |
@@ -260,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0200-number-of-islands) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
