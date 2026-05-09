@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
