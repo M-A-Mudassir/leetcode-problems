@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0200-number-of-islands) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0875-koko-eating-bananas](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0875-koko-eating-bananas) |
