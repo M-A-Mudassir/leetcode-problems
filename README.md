@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [1306-jump-game-iii](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1441-build-an-array-with-stack-operations) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0322-coin-change) |
 | [1306-jump-game-iii](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1345-jump-game-iv) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Hash Table
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0904-fruit-into-baskets) |
+| [1345-jump-game-iv](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String
