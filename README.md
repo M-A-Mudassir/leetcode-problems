@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1861-rotating-the-box) |
 | [1929-concatenation-of-array](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3660-jump-game-ix) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [1345-jump-game-iv](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0645-set-mismatch) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Counting Sort
 |  |
 | ------- |
