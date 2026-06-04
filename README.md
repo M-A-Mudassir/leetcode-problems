@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0494-target-sum) |
 | [3660-jump-game-ix](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3660-jump-game-ix) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -316,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
