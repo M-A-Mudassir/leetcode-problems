@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1861-rotating-the-box) |
 | [1929-concatenation-of-array](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [2574-left-and-right-sum-differences](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Backtracking
 |  |
