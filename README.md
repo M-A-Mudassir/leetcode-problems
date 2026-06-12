@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 | [1306-jump-game-iii](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 ## Linked List
 |  |
 | ------- |
