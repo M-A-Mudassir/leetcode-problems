@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1441-build-an-array-with-stack-operations) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
