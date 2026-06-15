@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0322-coin-change) |
