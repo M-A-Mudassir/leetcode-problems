@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3660-jump-game-ix](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3660-jump-game-ix) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
