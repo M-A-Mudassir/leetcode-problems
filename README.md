@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0152-maximum-product-subarray) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0345-reverse-vowels-of-a-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
