@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0063-unique-paths-ii) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0091-decode-ways) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0135-candy) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0206-reverse-linked-list) |
 ## Queue
 |  |
