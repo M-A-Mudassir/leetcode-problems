@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1840-maximum-building-height) |
 | [1861-rotating-the-box](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1861-rotating-the-box) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1840-maximum-building-height) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1833-maximum-ice-cream-bars](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 ## Stack
 |  |
 | ------- |
