@@ -8,8 +8,8 @@ class Solution {
             }
         }        
         int[] count = new int[maxCoins+1];
-        for(int i=0;i<n;i++){
-            count[costs[i]]++;
+        for(int i:costs){
+            count[i]++;
         }
         int sum = 0;
         for(int i=1;i<=maxCoins;i++){
