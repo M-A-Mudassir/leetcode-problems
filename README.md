@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3660-jump-game-ix](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3660-jump-game-ix) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2574-left-and-right-sum-differences](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Backtracking
 |  |
 | ------- |
