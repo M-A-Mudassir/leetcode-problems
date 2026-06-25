@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0396-rotate-function](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0396-rotate-function) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1861-rotating-the-box) |
