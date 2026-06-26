@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0166-fraction-to-recurring-decimal](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
+| [0205-isomorphic-strings](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0496-next-greater-element-i) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
+| [0205-isomorphic-strings](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0412-fizz-buzz) |
