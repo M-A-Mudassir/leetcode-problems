@@ -17,13 +17,11 @@ class Solution {
                 }
             }
         }
-        Integer[] temp = new Integer[st.size()];
-        temp = st.toArray(temp);
-        int[] ans = new int[st.size()];
-        int k = 0;
-        for(Integer i:temp){
-            ans[k++] = (int)i;
+        int m = st.size();
+        int[] res = new int[m];
+        for(int i=m-1;i>=0;i--){
+            res[i] = st.pop();
         }
-        return ans;
+        return res;
     }
 }
