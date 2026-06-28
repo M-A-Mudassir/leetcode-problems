@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1861-rotating-the-box](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1861-rotating-the-box) |
 | [1929-concatenation-of-array](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String Matching
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1833-maximum-ice-cream-bars](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
