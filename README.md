@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0412-fizz-buzz) |
+| [0735-asteroid-collision](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
