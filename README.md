@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1470-shuffle-the-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3660-jump-game-ix](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3660-jump-game-ix) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
