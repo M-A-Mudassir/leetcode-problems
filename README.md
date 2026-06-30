@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
+| [0746-min-cost-climbing-stairs](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1092-shortest-common-supersequence](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1143-longest-common-subsequence) |
