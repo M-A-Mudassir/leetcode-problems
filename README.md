@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0394-decode-string) |
 ## Queue
 |  |
 | ------- |
