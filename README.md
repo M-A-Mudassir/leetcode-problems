@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0190-reverse-bits) |
+| [0338-counting-bits](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0645-set-mismatch) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Counting Sort
