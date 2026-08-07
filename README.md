@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/0645-set-mismatch) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Counting Sort
 |  |
