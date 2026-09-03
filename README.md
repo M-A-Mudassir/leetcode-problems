@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3660-jump-game-ix](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3660-jump-game-ix) |
 | [3838-weighted-word-mapping](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3838-weighted-word-mapping) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sorting
 |  |
 | ------- |
