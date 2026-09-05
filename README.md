@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3660-jump-game-ix) |
 | [3838-weighted-word-mapping](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3838-weighted-word-mapping) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3904-smallest-stable-index-ii](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
 |  |
 | ------- |
