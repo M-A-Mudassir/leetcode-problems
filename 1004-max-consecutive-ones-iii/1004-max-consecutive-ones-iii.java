@@ -5,7 +5,7 @@ class Solution {
             if(nums[i] == 0){
                 zero++;
             }
-            if(zero > k){
+            while(zero > k){
                 if(nums[l] == 0){
                     zero--;
                 }
