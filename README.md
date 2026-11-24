@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Greedy
 |  |
 | ------- |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Trie
 |  |
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/M-A-Mudassir/leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Divide and Conquer
 |  |
